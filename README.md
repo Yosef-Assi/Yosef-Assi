@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Yousef
+Im Yosef Assi from palestine i studied computer system engineering in arab american university
 
-<!--
-**Yosef-Assi/Yosef-Assi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python / Django / JS / HTML / CSS / Java / Flask / C++ / ASP.NET / Assembly language / REACT   
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on AXSOS Academy 
+- 🌱 I’m currently learning JAVA 
+- 💬 Ask me about Programing 
+- 📫 How to reach me: yosef9978@hotmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
